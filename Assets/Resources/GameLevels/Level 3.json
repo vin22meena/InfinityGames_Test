@@ -1,0 +1,191 @@
+{
+  "levelName": "Level",
+  "levelNumber": 3,
+  "levelCompletionBulbNodes": 3,
+  "gridRows": 5,
+  "gridColumns": 5,
+  "levelGridCellsCount": 25,
+  "levelGridCellSize": [
+    180.0,
+    180.0
+  ],
+  "levelGridConstraintType": "FixedColumnCount",
+  "levelGridCellConstraintCount": 5,
+  "gridCellAssociatedData": [
+    {
+      "associatedGridCellNumber": 1,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 0,
+      "yGridPosition": 0,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 2,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 0,
+      "yGridPosition": 1,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 3,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 0,
+      "yGridPosition": 2,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 4,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 0,
+      "yGridPosition": 3,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 5,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 0,
+      "yGridPosition": 4,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 6,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 1,
+      "yGridPosition": 0,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 7,
+      "associatedNodeUniqueID": "bulb_twopoint_node_2",
+      "xGridPosition": 1,
+      "yGridPosition": 1,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 8,
+      "associatedNodeUniqueID": "straightline_node",
+      "xGridPosition": 1,
+      "yGridPosition": 2,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 9,
+      "associatedNodeUniqueID": "straightline_node",
+      "xGridPosition": 1,
+      "yGridPosition": 3,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 10,
+      "associatedNodeUniqueID": "bulb_onepoint_node",
+      "xGridPosition": 1,
+      "yGridPosition": 4,
+      "nodeZRotation": 270.0
+    },
+    {
+      "associatedGridCellNumber": 11,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 2,
+      "yGridPosition": 0,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 12,
+      "associatedNodeUniqueID": "straightline_node",
+      "xGridPosition": 2,
+      "yGridPosition": 1,
+      "nodeZRotation": 90.0
+    },
+    {
+      "associatedGridCellNumber": 13,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 2,
+      "yGridPosition": 2,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 14,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 2,
+      "yGridPosition": 3,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 15,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 2,
+      "yGridPosition": 4,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 16,
+      "associatedNodeUniqueID": "arc_twopoint_node",
+      "xGridPosition": 3,
+      "yGridPosition": 0,
+      "nodeZRotation": 90.0
+    },
+    {
+      "associatedGridCellNumber": 17,
+      "associatedNodeUniqueID": "arc_threepoint_node",
+      "xGridPosition": 3,
+      "yGridPosition": 1,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 18,
+      "associatedNodeUniqueID": "straightline_node",
+      "xGridPosition": 3,
+      "yGridPosition": 2,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 19,
+      "associatedNodeUniqueID": "powersource_node",
+      "xGridPosition": 3,
+      "yGridPosition": 3,
+      "nodeZRotation": 270.0
+    },
+    {
+      "associatedGridCellNumber": 20,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 3,
+      "yGridPosition": 4,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 21,
+      "associatedNodeUniqueID": "bulb_onepoint_node",
+      "xGridPosition": 4,
+      "yGridPosition": 0,
+      "nodeZRotation": 180.0
+    },
+    {
+      "associatedGridCellNumber": 22,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 4,
+      "yGridPosition": 1,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 23,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 4,
+      "yGridPosition": 2,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 24,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 4,
+      "yGridPosition": 3,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 25,
+      "associatedNodeUniqueID": "",
+      "xGridPosition": 4,
+      "yGridPosition": 4,
+      "nodeZRotation": 0.0
+    }
+  ]
+}

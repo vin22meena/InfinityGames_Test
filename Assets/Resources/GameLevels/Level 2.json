@@ -1,0 +1,58 @@
+{
+  "levelName": "Level",
+  "levelNumber": 2,
+  "levelCompletionBulbNodes": 1,
+  "gridRows": 2,
+  "gridColumns": 3,
+  "levelGridCellsCount": 6,
+  "levelGridCellSize": [
+    256.0,
+    256.0
+  ],
+  "levelGridConstraintType": "FixedColumnCount",
+  "levelGridCellConstraintCount": 3,
+  "gridCellAssociatedData": [
+    {
+      "associatedGridCellNumber": 1,
+      "associatedNodeUniqueID": "bulb_onepoint_node",
+      "xGridPosition": 0,
+      "yGridPosition": 0,
+      "nodeZRotation": 180.0
+    },
+    {
+      "associatedGridCellNumber": 2,
+      "associatedNodeUniqueID": "arc_twopoint_node",
+      "xGridPosition": 0,
+      "yGridPosition": 1,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 3,
+      "associatedNodeUniqueID": "arc_twopoint_node",
+      "xGridPosition": 0,
+      "yGridPosition": 2,
+      "nodeZRotation": 0.0
+    },
+    {
+      "associatedGridCellNumber": 4,
+      "associatedNodeUniqueID": "arc_twopoint_node",
+      "xGridPosition": 1,
+      "yGridPosition": 0,
+      "nodeZRotation": 180.0
+    },
+    {
+      "associatedGridCellNumber": 5,
+      "associatedNodeUniqueID": "arc_twopoint_node",
+      "xGridPosition": 1,
+      "yGridPosition": 1,
+      "nodeZRotation": 180.0
+    },
+    {
+      "associatedGridCellNumber": 6,
+      "associatedNodeUniqueID": "powersource_node",
+      "xGridPosition": 1,
+      "yGridPosition": 2,
+      "nodeZRotation": 180.0
+    }
+  ]
+}
